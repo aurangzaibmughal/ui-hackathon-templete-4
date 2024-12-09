@@ -10,7 +10,7 @@ const slides = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
     buttonText: "Shop Now",
     chairImage: "/pinksofa.png", // Replace with the correct path
-    lampImage: "/lamp.png", // Replace with the correct path
+    lampImage: "/image 32.png", // Replace with the correct path
   },
   {
     title: "Modern Chair Designs for Your Home",
@@ -18,7 +18,7 @@ const slides = [
       "Discover the latest modern furniture trends to elevate your living space.",
     buttonText: "Shop Now",
     chairImage: "/pinksofa.png", // Replace with another chair image
-    lampImage: "/lamp.png", // Replace with another lamp image
+    lampImage: "/image 32.png", // Replace with another lamp image
   },
   {
     title: "Elegant Furniture for Every Space",
@@ -26,7 +26,7 @@ const slides = [
       "Bring timeless elegance to your home with our exclusive furniture collection.",
     buttonText: "Shop Now",
     chairImage: "/pinksofa.png", // Replace with another chair image
-    lampImage: "/lamp.png", // Replace with another lamp image
+    lampImage: "/image 32.png", // Replace with another lamp image
   },
 ];
 
