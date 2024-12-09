@@ -73,7 +73,7 @@ export default function TrendingProducts() {
           {/* Image Section */}
           <div className="relative w-full h-80 bg-gray-200 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/imagef2 .png" // Replace with your image source
+              src="/image 1169.png" // Replace with your image source
               alt="Image 4"
               layout="fill"
               objectFit="contain" // Ensure image is not cropped
